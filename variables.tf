@@ -1,0 +1,3 @@
+variable "vmtag" {
+  default = "NameVmFromGitHub"
+}
