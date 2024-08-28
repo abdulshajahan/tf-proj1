@@ -4,4 +4,4 @@ resource "aws_instance" "ec2vm" {
   tags = {
     Name = var.vmtag
   }
-  
+}
